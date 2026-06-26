@@ -1,7 +1,7 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="320" fill="#000000"/>
+<svg width="1500" height="320" viewBox="0 0 1500 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="320" fill="#000000"/>
 
-  <rect x="25" y="25" width="1230" height="270" rx="10"
+  <rect x="25" y="25" width="1450" height="270" rx="10"
         fill="#050505"
         stroke="#00ff9c"
         stroke-width="2"/>
@@ -15,7 +15,7 @@
         font-family="monospace"
         font-size="24"
         fill="#00ff9c">
-        cyberRKSha@github:~
+        @github~
   </text>
 
   <text x="80"
