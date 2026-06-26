@@ -152,6 +152,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 
 ---
 
+## `> achievements --badges`
+
+<p align="center">
+  <a href="https://holopin.io/@rks">
+    <img src="https://holopin.io/api/user/board?user=rks" />
+  </a>
+</p>
+
+---
 ```bash
 ┌──(visitor㉿github)-[~/]
 └─$ exit
