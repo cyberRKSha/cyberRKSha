@@ -1,0 +1,45 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" fill="#000000"/>
+
+  <rect x="25" y="25" width="1230" height="270" rx="10"
+        fill="#050505"
+        stroke="#00ff9c"
+        stroke-width="2"/>
+
+  <circle cx="60" cy="55" r="8" fill="#ff5f56"/>
+  <circle cx="90" cy="55" r="8" fill="#ffbd2e"/>
+  <circle cx="120" cy="55" r="8" fill="#27c93f"/>
+
+  <text x="150"
+        y="63"
+        font-family="monospace"
+        font-size="24"
+        fill="#00ff9c">
+        cyberRKSha@github:~
+  </text>
+
+  <text x="80"
+        y="150"
+        font-family="monospace"
+        font-size="68"
+        font-weight="bold"
+        fill="#00ff9c">
+        &gt; cyberRKSha
+  </text>
+
+  <text x="82"
+        y="205"
+        font-family="monospace"
+        font-size="26"
+        fill="#ffffff">
+        Cybersecurity Enthusiast | Network Security Engineer | Red Teamer | Penetration Tester
+  </text>
+
+  <text x="82"
+        y="255"
+        font-family="monospace"
+        font-size="24"
+        fill="#00ff9c">
+        [ SYSTEM ONLINE ]
+  </text>
+</svg>
