@@ -1,0 +1,127 @@
+<svg width="700" height="250"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4"
+                      result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="avatarClip">
+      <circle cx="110" cy="125" r="65"/>
+    </clipPath>
+
+  </defs>
+
+  <!-- Card -->
+  <rect
+      x="5"
+      y="5"
+      width="690"
+      height="240"
+      rx="12"
+      fill="#050505"
+      stroke="#00ff9c"
+      stroke-width="2"
+      filter="url(#glow)"
+  />
+
+  <!-- Rotating Ring -->
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 110 125"
+      to="360 110 125"
+      dur="20s"
+      repeatCount="indefinite"
+    />
+
+    <circle
+      cx="110"
+      cy="125"
+      r="78"
+      fill="none"
+      stroke="#00ff9c"
+      stroke-width="4"
+      stroke-dasharray="25 12"
+      filter="url(#glow)"
+    />
+
+  </g>
+
+  <!-- Avatar -->
+  <image
+      href="./Profile.png"
+      x="45"
+      y="60"
+      width="130"
+      height="130"
+      clip-path="url(#avatarClip)"
+  />
+
+  <!-- Pulsing Status Dot -->
+  <circle
+      cx="175"
+      cy="180"
+      r="8"
+      fill="#00ff9c">
+
+    <animate
+        attributeName="r"
+        values="8;12;8"
+        dur="1.5s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="1;.5;1"
+        dur="1.5s"
+        repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- Terminal Text -->
+  <text
+      x="250"
+      y="85"
+      font-family="monospace"
+      font-size="26"
+      fill="#00ff9c">
+
+      SYSTEM USER
+
+  </text>
+
+  <text
+      x="250"
+      y="135"
+      font-family="monospace"
+      font-size="38"
+      fill="#ffffff">
+
+      cyberRKSha
+
+  </text>
+
+  <text
+      x="250"
+      y="185"
+      font-family="monospace"
+      font-size="22"
+      fill="#00ff9c">
+
+      STATUS : WHO KNOWS!
+
+  </text>
+
+</svg>
