@@ -1,45 +1,164 @@
-<svg width="1500" height="320" viewBox="0 0 1500 320" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1500" height="320" fill="#000000"/>
+<svg width="1250" height="320" viewBox="0 0 1250 320" xmlns="http://www.w3.org/2000/svg">
 
-  <rect x="25" y="25" width="1450" height="270" rx="10"
-        fill="#050505"
-        stroke="#00ff9c"
-        stroke-width="2"/>
+  <defs>
 
+    <!-- Neon Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Avatar Crop -->
+    <clipPath id="avatarClip">
+      <circle cx="150" cy="175" r="68"/>
+    </clipPath>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1250" height="320" fill="#000000"/>
+
+  <!-- Terminal Window -->
+  <rect
+    x="25"
+    y="25"
+    width="1200"
+    height="270"
+    rx="10"
+    fill="#050505"
+    stroke="#00ff9c"
+    stroke-width="2"
+    filter="url(#glow)"
+  />
+
+  <!-- Window Buttons -->
   <circle cx="60" cy="55" r="8" fill="#ff5f56"/>
   <circle cx="90" cy="55" r="8" fill="#ffbd2e"/>
   <circle cx="120" cy="55" r="8" fill="#27c93f"/>
 
-  <text x="150"
-        y="63"
-        font-family="monospace"
-        font-size="24"
-        fill="#00ff9c">
-        @github~
+  <!-- Terminal Title -->
+  <text
+    x="150"
+    y="63"
+    font-family="monospace"
+    font-size="24"
+    fill="#00ff9c">
+
+    @github~
+
   </text>
 
-  <text x="80"
-        y="150"
-        font-family="monospace"
-        font-size="68"
-        font-weight="bold"
-        fill="#00ff9c">
-        &gt; cyberRKSha
+  <!-- ROTATING HUD RING -->
+  <g>
+
+  <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 150 175"
+      to="360 150 175"
+      dur="18s"
+      repeatCount="indefinite"
+  />
+
+  <!-- Outer HUD Ring -->
+  <circle
+      cx="150"
+      cy="175"
+      r="95"
+      fill="none"
+      stroke="#00ff9c"
+      stroke-width="3"
+      stroke-dasharray="30 14"
+      filter="url(#glow)"
+  />
+
+</g>
+
+  <!-- Inner Ring -->
+  <circle
+    cx="150"
+    cy="175"
+    r="78"
+    fill="none"
+    stroke="#00ff9c"
+    stroke-width="5"
+    filter="url(#glow)"
+  />
+
+  <!-- PROFILE IMAGE -->
+  <image
+    href="https://github.com/cyberRKSha.png"
+    x="82"
+    y="107"
+    width="136"
+    height="136"
+    clip-path="url(#avatarClip)"
+  />
+
+  <!-- PULSING STATUS DOT -->
+  <circle
+    cx="250"
+    cy="235"
+    r="9"
+    fill="#00ff9c"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="r"
+      values="9;13;9"
+      dur="1.6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="1;.45;1"
+      dur="1.6s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- Username -->
+  <text
+    x="300"
+    y="150"
+    font-family="monospace"
+    font-size="68"
+    font-weight="bold"
+    fill="#00ff9c"
+    filter="url(#glow)">
+    &gt; cyberRKSha
+
   </text>
 
-  <text x="82"
-        y="205"
-        font-family="monospace"
-        font-size="26"
-        fill="#ffffff">
-        Cybersecurity Enthusiast | Network Security Engineer | Red Teamer | Penetration Tester
+  <!-- Subtitle -->
+  <text
+    x="302"
+    y="210"
+    font-family="monospace"
+    font-size="24"
+    fill="#ffffff">
+
+    Network Security Engineer | Red Teamer | Penetration Tester
+
   </text>
 
-  <text x="82"
-        y="255"
-        font-family="monospace"
-        font-size="24"
-        fill="#00ff9c">
-        [ SYSTEM ONLINE ]
+  <!-- System Status -->
+  <text
+    x="302"
+    y="255"
+    font-family="monospace"
+    font-size="28"
+    fill="#00ff9c"
+    filter="url(#glow)">
+
+    [ SYSTEM ONLINE ]
+
   </text>
+
 </svg>
