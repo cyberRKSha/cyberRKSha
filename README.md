@@ -14,7 +14,6 @@
 
 </p>
 
----
 
 ## `> whoami`
 
@@ -27,9 +26,9 @@ Role      :: Cybersecurity Enginner
 Focus     :: Penetration Testing & Red Teaming
 Stack     :: Linux • Forensics • Bash • Networking
 Status    :: Breaking | Learning | Building | Securing
+Currently :: In University @ 127.0.0.1
 ```
 
----
 
 ## `> system.log`
 
@@ -43,7 +42,6 @@ Status    :: Breaking | Learning | Building | Securing
 ACCESS LEVEL: ROOT (Are you sure?)
 ```
 
----
 
 ## `> about_me.sh`
 
@@ -64,7 +62,6 @@ focus=(
 echo "Always breaking, learning, building, securing."
 ```
 
----
 
 ## `> ls tech_stack/`
 
@@ -105,7 +102,6 @@ echo "Always breaking, learning, building, securing."
 
 </p>
 
----
 
 ## `> cat currently_learning.txt`
 
@@ -117,7 +113,6 @@ echo "Always breaking, learning, building, securing."
 - Security Automation
 ```
 
----
 
 ## `> system_stats --overview`
 
@@ -125,13 +120,12 @@ echo "Always breaking, learning, building, securing."
 
 <img height="170em"
 src="https://github-readme-stats.vercel.app/api?username=cyberRKSha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="170em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
 </p>
 
----
 
 ## `> contribution_graph --animate`
 
@@ -141,7 +135,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 
 </p>
 
----
 
 ## `> git_log --streak`
 
@@ -151,7 +144,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 
 </p>
 
----
 
 ## `> network_scan --connect`
 
@@ -160,26 +152,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 <a href="https://github.com/cyberRKSha">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rksha01">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:cyberrksha@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-## `> quote.txt`
-
-```text
-"Doubt everything."
-
-                — Unknown
-```
 
 ---
 
@@ -191,7 +173,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
   </a>
 </p>
 
----
+
+## `> quote.txt`
+
+```text
+"Doubt everything."
+                    — Unknown
+```
+
+
 ```bash
 ┌──(visitor㉿github)-[~/]
 └─$ exit
