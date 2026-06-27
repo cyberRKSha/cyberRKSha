@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+Profile...;Cybersecurity+Enthusiast;Network+Engineer;Linux+%7C+Python+%7C+Automation;Breaking+things+to+understand+them.;Building+things+to+secure+them." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+Profile...;Cybersecurity+Enginner;Network+Security;Linux+%7C+Python+%7C+Automation;Breaking+things+to+understand+them.;Building+things+to+secure+them." />
 
 </p>
 
@@ -62,10 +62,7 @@ focus=(
   "Red Teaming"
 )
 
-echo "Always breaking."
-echo "Always learning."
-echo "Always building."
-echo "Always securing."
+echo "Always breaking, learning, building, securing."
 ```
 
 ---
@@ -135,7 +132,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 </a>
 
 <a href="https://linkedin.com/in/rksha01">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
