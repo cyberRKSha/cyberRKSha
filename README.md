@@ -62,9 +62,25 @@ focus=(
 echo "Always breaking, learning, building, securing."
 ```
 
+## `> ls projects/`
+
+<p align="center">
+  <a href="https://github.com/cyberRKSha/NetworkRKSha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=NetworkRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/cyberRKSha/LogRKSha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=LogRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
+  </a>
+</p>
+
 
 ## `> ls tech_stack/`
 
+<details>
+<summary><b><code>[+] View Loaded Modules & Binaries</code></b></summary>
+
+<br>
 <p align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -101,7 +117,7 @@ echo "Always breaking, learning, building, securing."
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 </p>
-
+</details>
 
 ## `> cat currently_learning.txt`
 
@@ -114,35 +130,30 @@ echo "Always breaking, learning, building, securing."
 ```
 
 
-## `> system_stats --overview`
+## `> cat /var/log/telemetry.log`
+
+<details>
+<summary><b><code>[+] View GitHub Activity Metrics</code></b></summary>
+
+<br>
 
 <p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=cyberRKSha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cyberRKSha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 </p>
 
-
-## `> contribution_graph --animate`
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberRKSha&theme=chartreuse-dark&hide_border=true&background=000000"/>
+</p>
 
 <p align="center">
-
+  
 ![Snake animation](https://github.com/cyberRKSha/cyberRKSha/blob/output/github-contribution-grid-snake-dark.svg)
 
 </p>
 
-
-## `> git_log --streak`
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberRKSha&theme=chartreuse-dark&hide_border=true&background=000000"/>
-
-</p>
+</details>
 
 
 ## `> network_scan --connect`
@@ -167,11 +178,18 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 
 ## `> achievements --badges`
 
+<details>
+<summary><b><code>[+] View Board</code></b></summary>
+
+<br>
+
 <p align="center">
   <a href="https://holopin.io/@rks">
     <img src="https://holopin.io/api/user/board?user=rks" />
   </a>
 </p>
+
+</details>
 
 
 ## `> quote.txt`
