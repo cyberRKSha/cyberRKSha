@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+Profile...;Cybersecurity+Enginner;Network+Security;Linux+%7C+Python+%7C+Automation;Breaking+things+to+understand+them.;Building+things+to+secure+them." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+Profile...;Cybersecurity+Enginner;Network+Security;Digital+Forensics;Linux+%7C+Python+%7C+Automation;Breaking+things+to+understand+them.;Building+things+to+secure+them." />
 
 </p>
 
@@ -77,9 +77,8 @@ echo "Always breaking, learning, building, securing."
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash%20script-333332?style=for-the-badge&logo=gnubash&logoColor=white)
-![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
