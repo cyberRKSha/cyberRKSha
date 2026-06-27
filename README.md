@@ -23,9 +23,9 @@
 └─$ whoami
 
 Name      :: RKSha
-Role      :: Cybersecurity Enginner | Enthusiast
+Role      :: Cybersecurity Enginner
 Focus     :: Penetration Testing & Red Teaming
-Stack     :: Linux • Python • Bash • Networking
+Stack     :: Linux • Forensics • Bash • Networking
 Status    :: Breaking | Learning | Building | Securing
 ```
 
@@ -56,8 +56,7 @@ focus=(
   "Cybersecurity"
   "Networking"
   "Linux"
-  "Automation"
-  "Python"
+  "Digital Forensics"
   "Penetration Testing"
   "Red Teaming"
 )
@@ -71,7 +70,39 @@ echo "Always breaking, learning, building, securing."
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,js,git,github,docker,vim,arch,kali,rabbitmq,redis,sklearn&perline=10"/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash%20script-333332?style=for-the-badge&logo=gnubash&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+<!-- Cybersecurity Tools -->
+![OWASP](https://img.shields.io/badge/owasp-%231B1F23.svg?style=for-the-badge&logo=OWASP&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/metasploit-3486E2?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burp%20suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679B4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
+![Suricata](https://img.shields.io/badge/suricata-DC1C1C?style=for-the-badge&logo=suricata&logoColor=white)
+![Snort](https://img.shields.io/badge/snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?logo=shodan&logoColor=white&style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-FFFFFF?style=for-the-badge&logo=autopsy&logoColor=black)
+![Tor](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 </p>
 
@@ -83,8 +114,8 @@ echo "Always breaking, learning, building, securing."
 - Advanced Networking
 - Penetration Testing
 - Linux Internals
+- Digital Forensics
 - Security Automation
-- Advanced Scripting
 ```
 
 ---
@@ -132,7 +163,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&l
 </a>
 
 <a href="https://linkedin.com/in/rksha01">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+</a>
+
+<a href="mailto:cyberrksha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
 </p>
