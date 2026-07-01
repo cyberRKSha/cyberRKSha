@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cybersecurity+Enginner;Network+Security+%7C+Digital+Forensics+%7C+Linux+Internals;Breaking+-+Building+things." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cybersecurity+Enginner;Network+Security+%7C+Digital+Forensics+%7C+Linux+Internals;Breaking+-+Building+things." />
 
 </p>
 
@@ -26,8 +26,8 @@ Role      :: Cybersecurity Enginner
 Focus     :: Penetration Testing & Digital Forensics
 Stack     :: Linux • Forensics • Bash • Networking
 Status    :: Breaking | Learning | Building | Securing
-Currently :: In University @ 127.0.0.1
-ACCESS LEVEL: ROOT (Are you sure?)
+
+ACCESS LVL: ROOT (Are you sure?)
 ```
 
 ## `> about_me.sh`
@@ -36,14 +36,12 @@ ACCESS LEVEL: ROOT (Are you sure?)
 #!/bin/bash
 
 name="RKSha"
-
 focus=(
   "Networking"
   "Linux"
   "Digital Forensics"
   "Penetration Testing"
 )
-
 ```
 
 ## `> ls projects/`
@@ -179,17 +177,21 @@ focus=(
 
 ## `> quote.txt`
 
+<details>
+<summary><b><code>[+] View Motivation </code></b></summary>
+<br>
+  
 ```text
 "Doubt everything."
                     — Unknown
 ```
-
+</details>
 
 ```bash
 ┌──(visitor㉿github)-[~/]
 └─$ exit
 
-Connection closed.
+Bbie.
 Stay Secure. 
 ```
 
