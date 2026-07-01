@@ -30,20 +30,6 @@ Status    :: Breaking | Learning | Building | Securing
 ACCESS LVL: ROOT (Are you sure?)
 ```
 
-## `> about_me.sh`
-
-```bash
-#!/bin/bash
-
-name="RKSha"
-focus=(
-  "Networking"
-  "Linux"
-  "Digital Forensics"
-  "Penetration Testing"
-)
-```
-
 ## `> ls projects/`
 
 <p align="center">
