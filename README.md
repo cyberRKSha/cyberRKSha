@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+Profile...;Cybersecurity+Enginner;Network+Security;Digital+Forensics;Linux+%7C+Python+%7C+Automation;Breaking+things+to+understand+them.;Building+things+to+secure+them." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cybersecurity+Enginner;Network+Security+%7C+Digital+Forensics+%7C+Linux+Internals;Breaking+-+Building+things." />
 
 </p>
 
@@ -23,25 +23,12 @@
 
 Name      :: RKSha
 Role      :: Cybersecurity Enginner
-Focus     :: Penetration Testing & Red Teaming
+Focus     :: Penetration Testing & Digital Forensics
 Stack     :: Linux • Forensics • Bash • Networking
 Status    :: Breaking | Learning | Building | Securing
 Currently :: In University @ 127.0.0.1
-```
-
-
-## `> system.log`
-
-```text
-[00:00:T] > Initializing profile ........ [OK]
-[00:00:T] > Loading modules ............. [OK]
-[00:00:T+1] > Connecting to GitHub ........ [OK]
-[00:00:T+1] > Fetching repositories ....... [OK]
-[00:00:T+2] > System ready ................ [OK]
-
 ACCESS LEVEL: ROOT (Are you sure?)
 ```
-
 
 ## `> about_me.sh`
 
@@ -51,12 +38,10 @@ ACCESS LEVEL: ROOT (Are you sure?)
 name="RKSha"
 
 focus=(
-  "Cybersecurity"
   "Networking"
   "Linux"
   "Digital Forensics"
   "Penetration Testing"
-  "Red Teaming"
 )
 
 ```
@@ -205,7 +190,7 @@ focus=(
 └─$ exit
 
 Connection closed.
-Stay Secure | नमो बुद्धाय | 
+Stay Secure. 
 ```
 
 <p align="center">
