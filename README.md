@@ -15,7 +15,7 @@
 </p>
 
 
-## `> whoami`
+## `> About Me`
 
 ```bash
 ┌──(cyberRKSha㉿github)-[~]
@@ -88,7 +88,7 @@ ACCESS LVL: ROOT (Are you sure?)
 </p>
 </details>
 
-## `> cat currently_learning.txt`
+## `> cat learning.txt`
 
 ```yaml
 - Advanced Networking
@@ -161,10 +161,8 @@ ACCESS LVL: ROOT (Are you sure?)
 </details>
 
 
-## `> quote.txt`
-
 <details>
-<summary><b><code>[+] View Motivation </code></b></summary>
+<summary><b><code>> quote.txt</code></b></summary>
 <br>
   
 ```text
@@ -178,7 +176,6 @@ ACCESS LVL: ROOT (Are you sure?)
 └─$ exit
 
 Bbie.
-Stay Secure. 
 ```
 
 <p align="center">
