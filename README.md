@@ -33,6 +33,12 @@ ACCESS LVL: ROOT (Are you sure?)
 ## `> ls projects/`
 
 <p align="center">
+  <a href="https://github.com/cyberRKSha/NetworkRKSha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=NetworkRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/cyberRKSha/LogRKSha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=LogRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
   </a>
