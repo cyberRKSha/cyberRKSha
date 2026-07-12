@@ -34,13 +34,13 @@ ACCESS LVL: ROOT (Are you sure?)
 
 <p align="center">
   <a href="https://github.com/cyberRKSha/NetworkRKSha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=NetworkRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=NetworkRKSha&theme=chartreuse-dark&bg_color=000000&v=1&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cyberRKSha/LogRKSha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=LogRKSha&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=LogRKSha&theme=chartreuse-dark&bg_color=000000&v=1&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
   </a>
 </p>
 
@@ -108,13 +108,13 @@ ACCESS LVL: ROOT (Are you sure?)
 <br>
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cyberRKSha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cyberRKSha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&v=1"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberRKSha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&v=1"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberRKSha&theme=chartreuse-dark&hide_border=true&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberRKSha&theme=chartreuse-dark&hide_border=true&background=000000&v=1"/>
 </p>
 
 <p align="center">
