@@ -33,7 +33,7 @@ ACCESS LVL: ROOT (Are you sure?)
 ## `> ls projects/`
 
 <p align="center">
-  <a href="https://github.com/cyberRKSha/EdgeRKSha.git">
+  <a href="https://github.com/cyberRKSha/EdgeRKSha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberRKSha&repo=EdgeRKSha&theme=chartreuse-dark&bg_color=000000&v=1&hide_border=true&title_color=00ff9c&icon_color=00ff9c" />
   </a>
 </p>
